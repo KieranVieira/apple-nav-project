@@ -35,9 +35,9 @@ const SubNav = props => {
                 color: #0070c9;
                 }
             }
-        }
-        .sub-active{
-            color: #0070c9;
+            .sub-active{
+                color: #0070c9;
+            }
         }
         .product-active{
             opacity: 1;
