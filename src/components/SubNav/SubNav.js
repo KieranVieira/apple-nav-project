@@ -26,7 +26,7 @@ const SubNav = props => {
         background-color: ${props => props.dark ? '#141414' : '#F6F6F6'};
         .product-container{
             display: flex;
-            margin-top: 10px;
+            margin-top: 15px;
             animation: ${slide} 0.3s linear;
             a{
                 text-decoration: none;
