@@ -53,7 +53,7 @@ const TopNav = props => {
                 <NavLink to="/watch">Watch</NavLink>
                 <NavLink to="/tv">TV</NavLink>
                 <NavLink to="/music">Music</NavLink>
-                <NavLink exact to="/">Support</NavLink>
+                <NavLink exact to="/help/support">Support</NavLink>
                 <NavLink exact to="/"><i className="fas fa-search" /></NavLink>
                 <NavLink exact to="/"><i className="fas fa-shopping-basket" /></NavLink>
             </div>
